@@ -1,8 +1,8 @@
 {
-  "$GMProject":"",
+  "$GMProject":"v1",
   "%Name":"Rakshasa",
   "AudioGroups":[
-    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
   "configs":{
     "children":[],
@@ -51,11 +51,12 @@
     {"$GMFolder":"","%Name":"Player","folderPath":"folders/Player.yy","name":"Player","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rakshasa","folderPath":"folders/Rakshasa.yy","name":"Rakshasa","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
+  "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.0.157",
+    "IDEVersion":"2024.14.0.207",
   },
   "name":"Rakshasa",
   "resources":[
@@ -119,6 +120,7 @@
     {"id":{"name":"Sprite_Blacksheep","path":"sprites/Sprite_Blacksheep/Sprite_Blacksheep.yy",},},
     {"id":{"name":"Sprite_Blessing","path":"sprites/Sprite_Blessing/Sprite_Blessing.yy",},},
     {"id":{"name":"Sprite_BlueWool","path":"sprites/Sprite_BlueWool/Sprite_BlueWool.yy",},},
+    {"id":{"name":"Sprite_Character","path":"sprites/Sprite_Character/Sprite_Character.yy",},},
     {"id":{"name":"Sprite_Close","path":"sprites/Sprite_Close/Sprite_Close.yy",},},
     {"id":{"name":"Sprite_Diorite","path":"sprites/Sprite_Diorite/Sprite_Diorite.yy",},},
     {"id":{"name":"Sprite_DoubleGoldArrow","path":"sprites/Sprite_DoubleGoldArrow/Sprite_DoubleGoldArrow.yy",},},
